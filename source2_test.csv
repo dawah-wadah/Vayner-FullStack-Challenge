@@ -1,0 +1,4 @@
+campaign_id,ad_type,date,spend,actions
+9b66b4a3-e20a-4a48-949c-93252a42b88d,video,2017-06-18,962,"[{""K"": 49, ""action"": ""noise""}, {""F"": 94, ""action"": ""views""}, {""A"": 0, ""action"": ""noise""}, {""D"": 20, ""action"": ""clicks""}]"
+9b66b4a3-e20a-4a48-949c-93252a42b88d,photo,2017-06-21,526,"[{""D"": 26, ""action"": ""conversions""}, {""F"": 24, ""action"": ""views""}, {""C"": 78, ""action"": ""noise""}, {""A"": 46, ""action"": ""noise""}]"
+9b66b4a3-e20a-4a48-949c-93252a42b88d,video,2017-06-23,525,"[{""K"": 71, ""action"": ""junk""}, {""B"": 29, ""action"": ""conversions""}, {""E"": 98, ""action"": ""junk""}, {""F"": 13, ""action"": ""views""}, {""E"": 82, ""action"": ""clicks""}]"

@@ -17,7 +17,8 @@
 	Source B reported on 268 conversions in NY. Total runtime of the operation was 0.005332 secs
 
 7. what combination of state and hair color had the best CPM?
-	The best CPM combination comes from IA with the hair color of purple with the lowest CPM of $0.1985. Total runtime of the operation was 0.003436 secs
+	The best CPM combination comes from Iowa with the hair color of purple with the lowest CPM of $0.1985. Total runtime of the operation was 0.003436 secs
+	NOTE: there were a few campaigns with 0 spending, so those have been disregarded as they would've won by default
 
 
 Total runtime of the entire computation was 0.424992 secs

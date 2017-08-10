@@ -1,0 +1,23 @@
+1. what was the total spent against people with purple hair?
+	Total Spent on Purple Haired People was $566,512. Total runtime of the operation was 0.005449 secs
+
+2. how many campaigns spent on more than 4 days?
+	There were 83 campaigns that operated on more than 4 days. Total runtime of the operation was 0.002421 secs
+
+3. how many times did source H report on clicks?
+	Source 'H' has submitted 623 reports on clicks. Total runtime of the operation was 0.012986 secs
+
+4. which sources reported more "junk" than "noise"?
+	The following sources reported more junk than noise D, E, and J. Total runtime of the operation was 3.4e-05 secs
+
+5. what was the total cost per view for all video ads, truncated to two decimal places?
+	The cost per view is $0.10. Total runtime of the operation was 0.014699 secs
+
+6. how many source B conversions were there for campaigns targeting NY?
+	Source B reported on 268 conversions in NY. Total runtime of the operation was 0.005332 secs
+
+7. what combination of state and hair color had the best CPM?
+	The best CPM combination comes from IA with the hair color of purple with the lowest CPM of $0.1985. Total runtime of the operation was 0.003436 secs
+
+
+Total runtime of the entire computation was 0.424992 secs
